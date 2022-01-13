@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/renatodaltiba/">
-    <img alt="Made by Khalleb" src="https://img.shields.io/badge/made%20by-khalleb-%237519C1">
+    <img alt="Made by Renato Daltiba" src="https://img.shields.io/badge/made%20by-khalleb-%237519C1">
   </a>
 
 </p>
