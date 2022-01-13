@@ -13,10 +13,6 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
 
-  <a href="https://www.linkedin.com/in/renatodaltiba/">
-    <img alt="Made by Renato Daltiba" src="https://img.shields.io/badge/made%20by-khalleb-%237519C1">
-  </a>
-
 </p>
 
 ---
